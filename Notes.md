@@ -1,5 +1,5 @@
 ## Add Element to LinedList
-
+```
 public class Main
 {
 	public static void main(String[] args) {
@@ -24,9 +24,10 @@ class Node{
     }
     
 }
+```
 
 ## Convert Array to LinkedList 
-
+```
 public class Main
 {
 	public static void main(String[] args) {
@@ -55,6 +56,7 @@ class Node{
         this.data = data;
         this.next = next;
     }
+```
     
     Node(int data){
         this.data = data;
